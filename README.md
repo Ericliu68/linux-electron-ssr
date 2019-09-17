@@ -6,3 +6,5 @@ ssr客户端在release里面
 ## 问题1 ： linux 不能正常使用， 请安装libsodium
 
 
+# 最近在github上突然发现有热心作者继续更新着electron-ssr：[链接](https://github.com/shadowsocksrr/electron-ssr)
+
